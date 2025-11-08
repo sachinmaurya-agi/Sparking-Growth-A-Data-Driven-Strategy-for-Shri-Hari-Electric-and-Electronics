@@ -2,7 +2,7 @@
 
 This repository contains the analysis and implementation for the BDM capstone project. The project focuses on optimizing sales, inventory, and logistics for Shri Hari Electric And Electronics through a data-driven approach.
 
-## 📑 Table of Contents
+##  Table of Contents
 * [About the Business](#-about-the-business)
 * [Problem Statement](#-problem-statement)
 * [Project Objectives](#-project-objectives)
@@ -14,17 +14,17 @@ This repository contains the analysis and implementation for the BDM capstone pr
 
 ---
 
-## 🏬 About the Business
+##  About the Business
 
 **Shri Hari Electric And Electronics** is a B2C retail store founded in 2022 by Mr. Santlal Maurya in Mariyahu, Jaunpur. It serves the local community as a one-stop shop for electronics, furniture, and home wiring supplies. The store's key differentiator is its unique product mix, catering to customers furnishing existing homes and those building new ones from the ground up.
 
-* **📍 Location:** Mariyahu near Railway Fatak, Jaunpur, Uttar Pradesh 222161
-* **⏰ Operating Hours:** 9:00 AM to 9:00 PM daily
-* **👥 Team Size:** 4, including the owner
+* ** Location:** Mariyahu near Railway Fatak, Jaunpur, Uttar Pradesh 222161
+* ** Operating Hours:** 9:00 AM to 9:00 PM daily
+* ** Team Size:** 4, including the owner
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 The business faces significant operational challenges that hinder its growth. These problems stem from a reliance on manual processes and intuition-based decisions, combined with external market pressures like seasonal purchasing behavior. This results in three critical issues:
 
@@ -34,7 +34,7 @@ The business faces significant operational challenges that hinder its growth. Th
 
 ---
 
-## 🚀 Project Objectives
+##  Project Objectives
 
 To address the problems, this project aims to achieve the following quantifiable goals:
 
@@ -44,7 +44,7 @@ To address the problems, this project aims to achieve the following quantifiable
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 
 A three-pronged analytical approach will be used to tackle each objective.
 
@@ -70,7 +70,7 @@ A three-pronged analytical approach will be used to tackle each objective.
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 
 The analysis for this project will be conducted using the following tools:
 
@@ -80,7 +80,7 @@ The analysis for this project will be conducted using the following tools:
 
 ---
 
-## 🗓️ Project Timeline
+## Project Timeline
 
 The project is executed over an 11-week timeline, broken down into three main phases:
 
@@ -90,7 +90,7 @@ The project is executed over an 11-week timeline, broken down into three main ph
 
 ---
 
-## ✨ Expected Outcomes
+## Expected Outcomes
 
 The successful implementation of this project is expected to deliver:
 
